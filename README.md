@@ -42,12 +42,18 @@ Pookie is a Discord bot that provides multiple functionalities, including AI cha
 ### 7. `DefaultConfig.py`
 - Stores configuration values like `DISCORD_SDK` token and other settings.
 
-'NOTE':
+### `NOTE`:
 If I had more time to improve Pookie, I would focus on:
-Make Gemini AI remember previous messages in a conversation for better replies.
-Allow server admins to tweak the AI’s personality and response style.
-Allow users to self-assign roles via reactions
-Detect and delete spam or inappropriate messages
-Scale across multiple servers without performance drops
-Translate AI and command responses into different languages.
+
+  Make Gemini AI remember previous messages in a conversation for better replies.
+
+  Allow server admins to tweak the AI’s personality and response style.
+
+  Allow users to self-assign roles via reactions
+
+  Detect and delete spam or inappropriate messages
+
+  Scale across multiple servers without performance drops
+
+  Translate AI and command responses into different languages.
 
